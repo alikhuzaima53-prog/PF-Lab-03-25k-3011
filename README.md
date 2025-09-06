@@ -2,17 +2,15 @@
 **"Welcome to my Profile"**
 
 1.Pakistan
-
 2.India
-
 3.Afghanistan
 
 
-**.**Pakistan
+-Pakistan
 
-**.**India
+-India
 
-**.**Afghanistan
+-Afghanistan
 
 ***Thank you very much***
 
